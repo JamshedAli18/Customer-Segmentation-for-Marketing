@@ -8,4 +8,4 @@ Clustering: Use algorithms like K-means clustering to group customers based on s
   
 ## Tools:  
  
-Python Libraries: pandas, scikit-learn, seaborn, matplotlib
+Python Libraries: pandas, scikit-learn, seaborn, matplotlib 
